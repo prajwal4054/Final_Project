@@ -1,0 +1,40 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
+
+@keyframes slideFromRight {
+  0% {
+    transform: translateX(100%); /* Start from right side */
+  }
+  100% {
+    transform: translateX(0); /* End at the center */
+  }
+}
+
+.main-page {
+  background-image: url("./assets/bg.gif");
+  background-color:white;
+  /* background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTkyMDRuYmxjeWI1am5ndXFrdGJ2a2s1cnJ3NXJqMDdjeW9jMWtzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8Emd2WnaJR2HoiHQy/giphy.gif"); */
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  animation: slideFromRight 3s ease forwards; /* Apply animation */
+}
+.cd {
+  width: 18rem;
+  margin: 10px;
+  margin-left: 18px;
+  /* height: 400px; */
+}
+.rw{
+  margin-top: 80px;
+}
+

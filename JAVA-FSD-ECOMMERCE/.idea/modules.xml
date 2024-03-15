@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-FSD-ECOMMERCE.iml" filepath="$PROJECT_DIR$/.idea/JAVA-FSD-ECOMMERCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jwtloginservice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jwtloginservice.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/productandcategoryservice.main.iml" filepath="$PROJECT_DIR$/.idea/modules/productandcategoryservice.main.iml" />
+    </modules>
+  </component>
+</project>

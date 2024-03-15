@@ -1,0 +1,19 @@
+.product-detail-container {
+    margin-top: 50px;
+  }
+  
+  .product-detail-container h2 {
+    font-size: 24px;
+  }
+  
+  .product-detail {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .product-detail p {
+    margin: 10px 0;
+  }
+ 
+  

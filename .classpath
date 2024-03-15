@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="bankingapp-auth-service/src/main/java"/>
+	<classpathentry kind="src" path="bankingapp-auth-service/src/test/java"/>
+	<classpathentry kind="src" path="bankingapp-config-service/src/main/java"/>
+	<classpathentry kind="src" path="bankingapp-config-service/src/test/java"/>
+	<classpathentry kind="src" path="bankingapp-gateway-service/src/main/java"/>
+	<classpathentry kind="src" path="bankingapp-gateway-service/src/test/java"/>
+	<classpathentry kind="src" path="bankingapp-registry-service/src/main/java"/>
+	<classpathentry kind="src" path="ecomm_service/src/main/java"/>
+	<classpathentry kind="src" path="ecomm_service/src/test/java/com/example/ecomm_service"/>
+	<classpathentry kind="lib" path="bankingapp-auth-service/target/bankingapp-auth-service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="bankingapp-config-service/target/bankingapp-config-service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="bankingapp-gateway-service/target/bankingapp-gateway-service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="bankingapp-registry-service/target/bankingapp-registry-service-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="ecomm_service/build/libs/ecomm_service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="ecomm_service/build/libs/ecomm_service-0.0.1-SNAPSHOT-plain.jar"/>
+	<classpathentry kind="lib" path="ecomm_service/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1037814/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.2/5c407409f8d260a4bc6e173d16fc3b36e6adec21/spring-boot-autoconfigure-3.2.2.jar" sourcepath="C:/Users/1037814/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.2/81d9eb6e5c17436ab7539565312405efd0c86f34/spring-boot-autoconfigure-3.2.2-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bankingapp-auth-service/target/classes"/>
+</classpath>
